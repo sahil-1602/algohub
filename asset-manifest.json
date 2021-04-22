@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/algohub/static/css/main.b0398f54.chunk.css",
+    "main.js": "/algohub/static/js/main.f1c6628a.chunk.js",
+    "main.js.map": "/algohub/static/js/main.f1c6628a.chunk.js.map",
+    "runtime-main.js": "/algohub/static/js/runtime-main.ff4a2c62.js",
+    "runtime-main.js.map": "/algohub/static/js/runtime-main.ff4a2c62.js.map",
+    "static/js/2.ec07fbf8.chunk.js": "/algohub/static/js/2.ec07fbf8.chunk.js",
+    "static/js/2.ec07fbf8.chunk.js.map": "/algohub/static/js/2.ec07fbf8.chunk.js.map",
+    "index.html": "/algohub/index.html",
+    "static/css/main.b0398f54.chunk.css.map": "/algohub/static/css/main.b0398f54.chunk.css.map",
+    "static/js/2.ec07fbf8.chunk.js.LICENSE.txt": "/algohub/static/js/2.ec07fbf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff4a2c62.js",
+    "static/js/2.ec07fbf8.chunk.js",
+    "static/css/main.b0398f54.chunk.css",
+    "static/js/main.f1c6628a.chunk.js"
+  ]
+}
